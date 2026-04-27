@@ -20,7 +20,7 @@ A fun, interactive memory game built with MicroPython on the Raspberry Pi Pico. 
 | **LEDs** | 3 | Any colors (Red, Green, Blue recommended) |
 | **Resistors** | 3 | 220Ω resistors for the LEDs |
 | **Push Buttons** | 3 | Tactile switches |
-| **Buzzer** | 1 | Piezo buzzer (with a ring/housing) |
+| **Buzzer** | 1 | Piezo buzzer  |
 | **Jumper Wires** | - | M-M or M-F cables |
 
 ---
