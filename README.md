@@ -1,6 +1,3 @@
-Here is the updated README.md file with your YouTube link integrated as a "Watch it in action" section.
-
-Markdown
 # 🕹️ Simon Says: Rickroll Edition (RPi Pico)
 
 A fun, interactive memory game built with MicroPython on the Raspberry Pi Pico. Repeat the sequence of lights and sounds to progress. If you fail, the buzzer will "Rickroll" you by playing the chorus of *Never Gonna Give You Up*!
